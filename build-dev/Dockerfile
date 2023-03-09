@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.12.0a5
 LABEL maintainer 'Aluno Cod3r <aluno at cod3r.com.br>'
 
 RUN useradd www && \
