@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:11
 LABEL maintainer 'Aluno Cod3r <aluno at cod3r.com.br>'
 
 ARG S3_BUCKET=files
